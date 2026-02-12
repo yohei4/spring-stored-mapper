@@ -1,8 +1,0 @@
-/Users/yohei/Projects/spring-stored-mapper/src/test/java/io/storedmapper/DbProgramBaseTest.java
-/Users/yohei/Projects/spring-stored-mapper/src/test/java/io/storedmapper/DbProgramHelperTest.java
-/Users/yohei/Projects/spring-stored-mapper/src/test/java/io/storedmapper/DbProgramMapperOptionsTest.java
-/Users/yohei/Projects/spring-stored-mapper/src/test/java/io/storedmapper/DbProgramValidatorTest.java
-/Users/yohei/Projects/spring-stored-mapper/src/test/java/io/storedmapper/ExecuteResultTest.java
-/Users/yohei/Projects/spring-stored-mapper/src/test/java/io/storedmapper/dialect/MySqlDialectTest.java
-/Users/yohei/Projects/spring-stored-mapper/src/test/java/io/storedmapper/dialect/PostgreSqlDialectTest.java
-/Users/yohei/Projects/spring-stored-mapper/src/test/java/io/storedmapper/dialect/SqlServerDialectTest.java
