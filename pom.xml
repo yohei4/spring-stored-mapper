@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.storedmapper</groupId>
+    <groupId>io.github.yohei4</groupId>
     <artifactId>spring-stored-mapper</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
